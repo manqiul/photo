@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "I LOVE SQUIRRELs!"
+author: "Manqiu"
 categories: documentation
 tags: [documentation,sample]
-image: 888.JPG
+image: IMG_2871.PNG
 ---
 
 # Millennial
