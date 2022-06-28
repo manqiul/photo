@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: 444.jpg
+image: 444.JPG
 ---
 
 # Millennial
