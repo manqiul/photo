@@ -1,6 +1,6 @@
 ---
 layout: category
-title: safari
-category: safari
+title: Safari
+category: Safari
 permalink: /safari
 ---
