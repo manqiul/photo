@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Where do I come from"
+author: "Manqiu"
 categories: sample
 tags: [sample]
-image: 6667.JPG
+image: chongqing1.JPG
 ---
 
 # Markdown Support
