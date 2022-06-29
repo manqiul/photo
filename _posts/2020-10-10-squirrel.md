@@ -4,7 +4,7 @@ title: "I LOVE SQUIRRELs!"
 author: "Manqiu"
 categories: documentation
 tags: [documentation,sample]
-image: IMG_2871.PNG
+image: IMG_2872.PNG
 ---
 
 # Millennial
