@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: City
 category: facts
 permalink: /facts
 ---
