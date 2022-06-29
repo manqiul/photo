@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Where do I come from"
+title: "Things I like about Seattle"
 author: "Manqiu"
 categories: sample
 tags: [sample]
-image: chongqing1.JPG
+image: lights.JPG
 ---
 
 # Markdown Support
