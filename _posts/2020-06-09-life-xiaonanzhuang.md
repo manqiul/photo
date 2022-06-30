@@ -8,4 +8,5 @@ image: IMG_3411.JPG
 ---
 
 
-{% include figure.html path="assets/img/xnz6.JPG" %}
+
+![alt text for screen readers](/assets/img/xnz6.JPG "Text to show on mouseover")
