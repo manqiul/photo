@@ -10,15 +10,12 @@ image: IMG_3411.JPG
 
 
 
-<img src="https://raw.githubusercontent.com/manqiul/manqiul.github.io/gh-pages/assets/img/xnz6.JPG">
+
 
 ![image](/photo/assets/img/xnz6.JPG)
 
 
-<img src="/photo/assets/img/xnz6.JPG" width="400" />
+<img src="/photo/assets/img/xnz6.JPG" width="800" />
 
-![alt text](https://github.com/manqiul/photo/blob/8e62feb94792f07b651c9a006c4b82cfb93778d0/assets/img/xnz6.JPG)
 
-<img src="[/assets/img/xnz6.JPG](https://github.com/manqiul/photo/blob/8e62feb94792f07b651c9a006c4b82cfb93778d0/assets/img/xnz6.JPG)" width="400" />
-
-{% include figure.html path="assets/img/xnz6.JPG" class="img-fluid rounded z-depth-1" %}
+<!-- {% include figure.html path="assets/img/xnz6.JPG" class="img-fluid rounded z-depth-1" %} -->
