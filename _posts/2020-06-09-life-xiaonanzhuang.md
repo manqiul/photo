@@ -9,4 +9,7 @@ image: IMG_3411.JPG
 
 
 
-![alt text for screen readers](/assets/img/xnz6.JPG "Text to show on mouseover")
+
+<img src="https://raw.githubusercontent.com/manqiul/manqiul.github.io/gh-pages/assets/img/xnz6.JPG">
+
+![image](/assets/img/xnz6.JPG)
