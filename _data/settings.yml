@@ -7,11 +7,11 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'City',  url: 'city'}
-- {name: 'Safari', url: 'safari'}
-- {name: 'Botanical Garden',       url: 'botanical-garden'}
-- {name: 'Landscape',      url: 'landscape'}
-- {name: 'Life',            url: 'life'}
+# - {name: 'City',  url: 'city'}
+# - {name: 'Safari', url: 'safari'}
+# - {name: 'Botanical Garden',       url: 'botanical-garden'}
+# - {name: 'Landscape',      url: 'landscape'}
+# - {name: 'Life',            url: 'life'}
 - {name: 'About',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
