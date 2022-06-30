@@ -7,7 +7,7 @@ tags: [sample]
 image: IMG_3411.JPG
 ---
 
-<span style="font-family:Papyrus; font-size:large;">When</span> the pandemic shutdown was not completely ended, I graduated and returned to Beijing alone with two suitcases, wandering around Zhongguancun and looking for a place to settle down. I lived in Xiaonanzhuang for the whole following year.   
+<span style="font-size:24px;">When</span> the pandemic shutdown was not completely ended, I graduated and returned to Beijing alone with two suitcases, wandering around Zhongguancun and looking for a place to settle down. I lived in Xiaonanzhuang for the whole following year.   
 
 
 After four years of living in Zhixing Building near the west gate of my university, I thought I had an "exhaustive" exploration of the outside world of the west gate. But after a year in Xiaonanzhuang, exploring westward from time to time, I realized that my previous knowledge of this area was limited to the road along the West Third Ring Boulevard.  I had a relatively bad impression of the boulevard with its heavy traffic and dust.  
