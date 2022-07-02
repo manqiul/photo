@@ -10,10 +10,7 @@ image: IMG_3411.JPG
 <span style="font-size:24px;">When</span> the pandemic shutdown was not completely ended, I graduated and returned to Beijing alone with two suitcases, wandering around Zhongguancun and looking for a place to settle down. I lived in Xiaonanzhuang for the whole following year.   
 
 
-After four years of living in Zhixing Building near the west gate of my university, I thought I had an "exhaustive" exploration of the outside world of the west gate. But after a year in Xiaonanzhuang, exploring westward from time to time, I realized that my previous knowledge of this area was limited to the road along the West Third Ring Boulevard.  I had a relatively bad impression of the boulevard with its heavy traffic and dust.  
-
-
-As I rode my bicycle around the Wanliu area to run errands, I found lots of interesting but useless "life hacks", and realized the endless fun of ordinary life.  
+Xiaonanzhuang is located beside the West Third Ring Boulevard, to which I had a relatively bad impression for its heavy traffic and dust. But after a year in Xiaonanzhuang, exploring westward from time to time, I realized that my previous knowledge of this area was limited to the road itself. As I rode my bicycle around the Wanliu area to run errands, I found lots of interesting and useless "life hacks", and realized the endless fun of ordinary life.  
 
 
 The most rewarding part of the year was that I got to see a different kind of scenery after briefly straying from the main road of my life plan.  
