@@ -27,7 +27,7 @@ The most rewarding part of the year was that I got to have a different view afte
 
 ![image](/photo/assets/img/xnz_p_4.jpg)
 
-![image](/photo/assets/imgxnz_p_5.jpg)
+![image](/photo/assets/img/xnz_p_5.jpg)
 
 
 
