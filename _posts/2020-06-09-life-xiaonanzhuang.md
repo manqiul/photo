@@ -7,37 +7,28 @@ tags: [sample]
 image: IMG_3411.JPG
 ---
 
-<span style="font-size:24px;">When</span> the pandemic shutdown was not completely ended, I graduated and returned to Beijing alone with two suitcases, wandering around Zhongguancun and looking for a place to settle down. I lived in Xiaonanzhuang for the whole following year.   
+<span style="font-size:24px;">When</span> the pandemic lockdown was still going on, I graduated virtually and returned to Beijing alone with two suitcases, wandering around Zhongguancun and looking for a place to settle down. I lived in Xiaonanzhuang for the whole following year.   
 
 
-Xiaonanzhuang is located beside the West Third Ring Boulevard, to which I had a relatively bad impression for its heavy traffic and dust. But after a year in Xiaonanzhuang, exploring westward from time to time, I realized that my previous knowledge of this area was limited to the road itself. As I rode my bicycle around the Wanliu area to run errands, I found lots of interesting and useless "life hacks", and realized the endless fun of ordinary life.  
+Xiaonanzhuang is located beside the West Third Ring Boulevard, to which I had a relatively bad impression for its heavy traffic and dust. But after a year in Xiaonanzhuang, exploring westward from time to time, I realized that my previous knowledge of this area was limited to the boulevard itself. As I rode my bicycle around the Wanliu area to run errands, I found lots of interesting "life hacks", and felt the joy of everyday life.  
 
 
-The most rewarding part of the year was that I got to see a different kind of scenery after briefly straying from the main road of my life plan.  
+The most rewarding part of the year was that I got to have a different view after briefly straying from my original plan.  
 
 
 
 
 
-![image](/photo/assets/img/xnz6.JPG)
+![image](/photo/assets/img/xnz_p_1.jpg)
 
-![image](/photo/assets/img/xnz66.JPG)
+![image](/photo/assets/img/xnz_p_2.jpg)
 
-![image](/photo/assets/img/xnz1.JPG)
+![image](/photo/assets/img/xnz_p_3.jpg)
 
-![image](/photo/assets/img/xnz2.JPG)
+![image](/photo/assets/img/xnz_p_4.jpg)
 
-![image](/photo/assets/img/xnz3.JPG)
+![image](/photo/assets/imgxnz_p_5.jpg)
 
-![image](/photo/assets/img/xnz.JPG)
-
-![image](/photo/assets/img/xnz4.JPG)
-
-![image](/photo/assets/img/xnz5.JPG)
-
-![image](/photo/assets/img/xnz8.JPG)
-
-![image](/photo/assets/img/xnz9.JPG)
 
 
 
