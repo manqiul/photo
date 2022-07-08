@@ -11,7 +11,7 @@ image: bw0.JPG
 
 ![image](/photo/assets/img/bw000.jpg)
 
-![image](/photo/assets/img/bw10.jpg)
+![image](/photo/assets/img/bw10.jpeg)
 
 ![image](/photo/assets/img/bw3.jpg)
 
