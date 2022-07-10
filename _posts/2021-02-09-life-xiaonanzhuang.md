@@ -17,15 +17,15 @@ The most rewarding part of the year was that I got to have a different view afte
 
 
 
-![image](/photo/assets/img/xnz_p_1.jpg)
+![image](/assets/img/xnz_p_1.jpg)
 
-![image](/photo/assets/img/xnz_p_2.jpg)
+![image](/assets/img/xnz_p_2.jpg)
 
-![image](/photo/assets/img/xnz_p_3.jpg)
+![image](/assets/img/xnz_p_3.jpg)
 
-![image](/photo/assets/img/xnz_p_4.jpg)
+![image](/assets/img/xnz_p_4.jpg)
 
-![image](/photo/assets/img/xnz_p_5.jpg)
+![image](/assets/img/xnz_p_5.jpg)
 
 
 
