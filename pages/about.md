@@ -14,20 +14,20 @@ Thank you for being here.
 
 <span style="font-size:14px;color:#acacac">(well since HTML doesn't limit the page length, I can write as much as I want:), so I'll just write more.</span>
 
-#### Q: A brief intro to my photo series? Which one do I like the most?
+#### Q1: A brief intro to my photo series? Which one do I like the most?
 
 My favorate: 
 
-- If you like squirrels, please do check out the "I love squirrels" series!!!
+- If you like `squirrels`, please do check out the "[I love squirrels](https://manqiul.github.io/photo/squirrel)" series!!!
 
 For the remaining series: 
 
-- If you'd like to see some beautiful scenery, "Golden hour in California" and "Old dreams in Beijing" are good choices.
-- If you'd like to get some new ideas from photos, please feel free to check out the "Monochrome" and "Virtual and Real".
-- If you like photos recording everyday life, then "Days in Wanliu East Road", "ATLANTA" are always here for you.
+- If you'd like to see some `beautiful scenery`, "[Golden hour in California](https://manqiul.github.io/photo/GoldenHour)" and "[Old dreams in Beijing](https://manqiul.github.io/photo/beijing)" are good choices.
+- If you'd like to get some `new ideas` from photos, please feel free to check out the "[Monochrome](https://manqiul.github.io/photo/Monochrome)" and "[Virtual and Real](https://manqiul.github.io/photo/mirror)".
+- If you like photos recording `everyday life`, then "[Days in Wanliu East Road](https://manqiul.github.io/photo/life-xiaonanzhuang)", "[ATLANTA](https://manqiul.github.io/photo/Atlanta)" are always here for you.
 
 
-#### What's coming next?
+#### Q2: What's coming next?
 
 Great question. This site is still in a early stage, and I'm now working on:
 
