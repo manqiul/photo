@@ -14,38 +14,38 @@ image: IMG_0081.JPG
 
 These photos bring me into a tale we learned in middle high schools -- *The Peach Colony 桃花源记*.  
 
-![image](/photo/assets/img/hmb1.JPG)
+![image](/assets/img/hmb1.JPG)
 
-![image](/photo/assets/img/hmb2.JPG)
+![image](/assets/img/hmb2.JPG)
 
-![image](/photo/assets/img/hmb3.JPG)
+![image](/assets/img/hmb3.JPG)
 
-![image](/photo/assets/img/hmb4.JPG)
+![image](/assets/img/hmb4.JPG)
 
 
 #### Santa Monica Beach, Santa Monica
 
 Seagulls: "Go get some fries on the pier".
 
-![image](/photo/assets/img/la1.jpg)
+![image](/assets/img/la1.jpg)
 
-![image](/photo/assets/img/la2.jpg)
+![image](/assets/img/la2.jpg)
 
-![image](/photo/assets/img/la3.JPG)
+![image](/assets/img/la3.JPG)
 
-![image](/photo/assets/img/la4.JPG)
+![image](/assets/img/la4.JPG)
 
-![image](/photo/assets/img/la5.JPG)
+![image](/assets/img/la5.JPG)
 
 
 #### Mission Beach, Santa Diego
 
 Enjoy the sunset together.
 
-![image](/photo/assets/img/sd1.jpg)
+![image](/assets/img/sd1.jpg)
 
-![image](/photo/assets/img/sd2.jpg)
+![image](/assets/img/sd2.jpg)
 
-![image](/photo/assets/img/sd3.JPG)
+![image](/assets/img/sd3.JPG)
 
 
