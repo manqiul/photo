@@ -7,11 +7,11 @@ tags: [sample]
 image: bw0.JPG
 ---
 
-<span style="font-size:24px;">Monochrome</span> photography can help eliminate distractions from colors, and also convey stronger emotions.
+<span style="font-size:24px;">Monochrome</span> photography can help us focus. Colors are great, but sometimes distractive.
 
 #### Night, light, books
 
-These two photos were taken in Seattle Public Library. Books can be the light.
+Books can be the light. -- photo from Seattle Public Library. 
 
 ![image](/assets/img/bw1.jpg)
 
@@ -31,7 +31,7 @@ It's just hard to understand each other.
 
 #### Animals
 
-This bird's shadow really looks like the boss of black organization in manga *Meitantei Conan*.
+This bird's shadow looks like the boss of black organization in manga *Meitantei Conan*.
 
 ![image](/assets/img/bw3.jpg)
 
@@ -45,7 +45,7 @@ Duck and cat, might be friends?
 
 #### In real life
 
-This photo is actually a selfie in the screen of television -- and because of this, it is originally in grey tone. I like this photo as it reflects my room in a mess, and I was like an audience, sitting before the TV, watching how my own life went. 
+A selfie reflected from the screen of television. 
 
 ![image](/assets/img/bw5.jpeg)
 
