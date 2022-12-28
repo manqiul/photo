@@ -34,7 +34,7 @@ Great question. This site is still in a early stage, and I'm now working on:
 - Take and upload more photos <span style="font-size:14px;color:#acacac">(of course)</span>.
 - Make this site English-Chinese bilingual <span style="font-size:14px;color:#acacac">(mainly because I have better writing skills in Chinese, and I want to show off how good I can write)</span>.
 - Add comment feature <span style="font-size:14px;color:#acacac">(if I failed, I'll delete this and pretend I didn't write it)</span>.
-- More UI designs <span style="font-size:14px;color:#acacac">(I like do CSS work, which is true)</span>. 
+- More UI designs <span style="font-size:14px;color:#acacac">(I like doing CSS work, which is true)</span>. 
 
 
 
